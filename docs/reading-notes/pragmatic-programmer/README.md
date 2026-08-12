@@ -9,6 +9,7 @@ invented quotations, or invented page references here.
 ## Chapter notes
 
 - [Chapter 1: A Pragmatic Philosophy](chapter-01-pragmatic-philosophy.md)
+- [Chapter 2: A Pragmatic Approach](chapter-02-pragmatic-approach.md)
 
 ## Future files
 
