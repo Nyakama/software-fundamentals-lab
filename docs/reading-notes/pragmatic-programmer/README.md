@@ -10,6 +10,7 @@ invented quotations, or invented page references here.
 
 - [Chapter 1: A Pragmatic Philosophy](chapter-01-pragmatic-philosophy.md)
 - [Chapter 2: A Pragmatic Approach](chapter-02-pragmatic-approach.md)
+- [Chapter 3: The Basic Tools](chapter-03-basic-tools.md)
 
 ## Future files
 
