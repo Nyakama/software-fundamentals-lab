@@ -12,6 +12,7 @@ invented quotations, or invented page references here.
 - [Chapter 2: A Pragmatic Approach](chapter-02-pragmatic-approach.md)
 - [Chapter 3: The Basic Tools](chapter-03-basic-tools.md)
 - [Chapter 4: Pragmatic Paranoia](chapter-04-pragmatic-paranoia.md)
+- [Chapter 5: Bend, or Break](chapter-05-bend-or-break.md)
 
 ## Future files
 
